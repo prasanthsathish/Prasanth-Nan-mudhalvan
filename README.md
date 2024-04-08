@@ -23,7 +23,7 @@ This is a simple Bus Reservation System built using Python and Django framework.
 1. Clone the repository:
 
 ```
-git clone https://github.com/vig1l4nt3/Project.git
+git clone https://github.com/prasanthsathish/Prasanth-Nan-mudhalvan.git
 ```
 
 2. Navigate to the project directory:
